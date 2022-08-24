@@ -1,3 +1,3 @@
 default:
-	c++ -o raytracer -O3 -Wall raytracer.cpp
+	c++ -o raytracer raytracer.cpp
 	./raytracer
